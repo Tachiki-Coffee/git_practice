@@ -1,0 +1,4 @@
+
+name = gets.chomp
+i
+
